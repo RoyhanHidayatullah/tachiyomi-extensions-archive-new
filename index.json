@@ -1112,10 +1112,10 @@
   {
     "name": "Tachiyomi: Comick",
     "pkg": "eu.kanade.tachiyomi.revived.all.comickfun",
-    "apk": "tachiyomi-all.comickfun-revived-v1.4.41.apk",
+    "apk": "tachiyomi-all.comickfun-revived-v1.4.42.apk",
     "lang": "all",
-    "code": 41,
-    "version": "1.4.41",
+    "code": 42,
+    "version": "1.4.42",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
